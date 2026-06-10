@@ -257,4 +257,5 @@ In an era where manipulated digital content is increasingly difficult to detect,
 
 ## Team
     @Poras2005
+    @PawanHingane
     @SnehalDnyane
